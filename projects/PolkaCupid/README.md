@@ -2,36 +2,23 @@
 
 ### Team Name: **PolkaCupid**  
 - **Team Members**:  
-  - Nakshatra Goel ([GitHub](https://github.com/nakshatra1620) / [LinkedIn](https://www.linkedin.com/in/nakshatra1620/) / [Twitter](https://twitter.com/naksh1620))  
-  - Member 2 ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/) / [Twitter](https://twitter.com/))  
-  - Member 3 ([GitHub](https://github.com/) / [LinkedIn](https://www.linkedin.com/) / [Twitter](https://twitter.com/))  
-
----
-
-## Demo & Links
-
-- **Live Demo**: [Insert link here]  
-- **GitHub Repository**: [Insert link here]  
-- **Video Demo**: [Insert link here]  
+  - Nakshatra Goel ([GitHub](https://github.com/Nakshatra05) / [LinkedIn](https://www.linkedin.com/in/nakshatra-goel/) / [Twitter](https://twitter.com/Naksh005))  
 
 ---
 
 ## Project Overview
 
 **Description**:  
-PolkaCupid is a decentralized dating platform built on the Polkadot ecosystem. It utilizes the **KILT Protocol** for secure, self-sovereign identity registration, enabling users to create verifiable, privacy-focused profiles. By integrating Zero-Knowledge Proofs, PolkaCupid ensures data privacy while fostering trust and authenticity. The platform also features AI-driven matchmaking and token-based rewards, delivering a secure, engaging, and meaningful dating experience.
+PolkaCupid is a decentralized dating platform built on the Polkadot ecosystem. It utilizes the **KILT Protocol** for secure, self-sovereign identity registration, enabling users to create verifiable, privacy-focused profiles. By integrating KILT Protocol, PolkaCupid ensures data privacy while fostering trust and authenticity. The platform aims to deliver a secure, engaging, and privacy-focused online dating experience, eliminating fake profiles and ensuring meaningful connections.
 
 **Key Features**:  
-- **Verified Profiles**: Registration via KILT Protocol ensures authenticity.  
-- **Privacy and Security**: Zero-Knowledge Proofs safeguard sensitive information.  
-- **AI-Driven Matchmaking**: Compatibility-based pairing powered by intelligent algorithms.  
+- **Verified Profiles**: Registration via KILT Protocol ensures authenticity.   
 - **Token-Based Rewards**: Incentivize user engagement and participation.  
 
 **Technology Stack**:  
 - **Blockchain/Parachains**: Polkadot, KILT Protocol  
-- **Frontend**: React.js  
+- **Frontend**: Next.js  
 - **Backend**: Node.js with Rust-based components  
-- **Other Tools**: IPFS for decentralized storage, Zero-Knowledge Proofs for privacy  
 
 ---
 
@@ -39,32 +26,30 @@ PolkaCupid is a decentralized dating platform built on the Polkadot ecosystem. I
 
 ### Day 1 (Date):  
 - **Achievements**:  
-  - Finalized project architecture and feature list.  
-  - Integrated KILT Protocol for identity registration.  
+  - Finalized project idea.  
 - **Challenges**:  
-  - Configuring Decentralized Identifiers (DIDs) for seamless registration.  
+  - Configuring and refining the concept.  
 
 ### Day 2 (Date):  
 - **Achievements**:  
-  - Developed user interface for profile creation and authentication.  
-  - Implemented Zero-Knowledge Proofs for private attribute verification.  
+  - Brainstorming session to outline features and functionality.  
+  - Created wireframes and designed the app's workflow.  
 - **Challenges**:  
-  - Ensuring compatibility between KILT Protocol and Polkadot ecosystem.  
+  - Streamlining the workflow to ensure seamless user experience.  
 
 ### Day 3 (Date):  
 - **Achievements**:  
-  - Completed the AI-driven matchmaking algorithm.  
-  - Integrated token rewards system for user activity and engagement.  
+  - Developed user interface for profile creation and authentication.  
+  - Began integrating the KILT Protocol with the DApp.  
 - **Challenges**:  
-  - Scaling transaction speeds and optimizing network costs.  
+  - Addressing technical complexities of integrating KILT Protocol.  
 
 ---
 
 ## How to Run Locally
 
 ### Prerequisites
-- Node.js (v14+ recommended)  
-- Rust (latest version)  
+- Node.js (v14+ recommended)   
 - Polkadot.js extension  
 - KILT Protocol SDK  
 
