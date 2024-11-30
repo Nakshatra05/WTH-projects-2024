@@ -1,5 +1,3 @@
-# [Banner for CrediMatch]
-
 # CrediMatch
 
 ### Team Name: **PolkaCupid**  
